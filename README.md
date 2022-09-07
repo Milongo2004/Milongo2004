@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milongo2004
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning How to connect electronical devices to web and how to processing de colected info whit an api.
+- 🌱 I’m currently learning How to connect electronical devices to web and how to processing the colected info whit an api.
 - 💞️ I’m looking to collaborate on projects related to industrial production
 - 📫 How to reach me ... camiloalvarez2004@gmail.com 
 
